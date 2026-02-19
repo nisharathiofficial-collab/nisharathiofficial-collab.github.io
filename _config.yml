@@ -1,0 +1,22 @@
+title: "Dr. Nisha Agrawal Rathi"
+description: "Academic Leader & Mentor | Cybersecurity | Artificial Intelligence | Machine Learning"
+url: "https://yourusername.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: "Dr. Nisha Agrawal Rathi"
+  email: "your-email@example.com"
+
+linkedin_username: nisha-agrawal-rathi-a5a161a0
+
+header_pages:
+  - about.md
+  - experience.md
+  - education.md
+  - research.md
+  - certifications.md
+  - contact.md
+
+markdown: kramdown
